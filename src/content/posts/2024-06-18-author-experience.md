@@ -17,3 +17,5 @@ CMS allows managing only content that has been configured in the collections for
 By default, the editor and preview of an item looks like in the image above. However, it is possible to configure the preview to match the website look as described in [StaticCMS documentation for custom preview](https://www.staticcms.org/docs/custom-previews). Different preview template can be configured for each type of items managed by CMS.
 
 The modifications can be published immediately, or CMS can be configured to use Editorial Workflow, like in this website. With Editorial Workflow, the changes are saved as drafts, that are stored in git in a separate branch, and collaborators can review them before publishing.
+
+After the changes have been published, it takes some time for the new content to deploy on the website. The deploy logs can be made public, so authors can view the deploy status to see when the changes are live. This websites deploy logs can be found at [https://app.netlify.com/sites/static-site-example3/deploys](https://app.netlify.com/sites/static-site-example3/deploys).
