@@ -5,6 +5,7 @@ backend:
    branch: main
    auth_endpoint: auth
 media_folder: 'public/images'
+publish_mode: editorial_workflow
 public_folder: "/images"
 collections:
   - name: 'post' # Used in routes, e.g., /admin/collections/blog
