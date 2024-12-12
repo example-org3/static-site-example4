@@ -12,7 +12,7 @@ categories:
 ---
 When the website is up and running, authors can add and edit content using the CMS user interface. Authors can create new posts, and edit existing posts' and pages' content. They can add text, images and etc. It is also possible to embed YouTube videos, like this:
 
-<iframe src="https://www.youtube.com/embed/uXOoYILAKdg"  title="kickstartDS Static CMS Starter - Instantly deployed websites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/oGGIkuGY-7U"  width="560" height="315" title="kickstartDS Static CMS Starter - Instantly deployed websites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 CMS allows managing only content that has been configured in the collections for modifications. It depends on the template what things on the website are read from the CMS content and which are hard wired. For example, in this template it is not possible to modify the layout or css styles, but they could be configurable.
 
