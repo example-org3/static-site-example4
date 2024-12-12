@@ -44,3 +44,12 @@ h6,
 .h6 {
   @apply text-h6;
 }
+
+iframe {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background: #000;
+  border: none;
+}
