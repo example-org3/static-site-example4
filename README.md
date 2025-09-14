@@ -1,1 +1,1 @@
-# Example of static web site with CSM
+# Example of static website with CSM
